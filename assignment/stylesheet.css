@@ -1,9 +1,9 @@
 body {
-  margin: 50px;
+  margin: 0;
   background-image: url("record.png");
   background-color: #cce6ff;
+  background-repeat: repeat;
 }
-
 
 
 .top {
@@ -17,5 +17,5 @@ body {
 
 .middle {
   background-color: lightgrey;
-  padding: 25px;
+  padding: 1em;
 }
